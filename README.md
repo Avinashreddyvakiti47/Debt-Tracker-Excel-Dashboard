@@ -48,8 +48,6 @@ The objective of this project is to:
 
 - DEBT TRACKER.xlsx
 
----
-
 ## 👤 Author
 
 Your Name
