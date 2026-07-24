@@ -53,6 +53,4 @@ The objective of this project is to:
 ## 👤 Author
 
 Your Name
-
-t
 Avinash reddy vakiti
